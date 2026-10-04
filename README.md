@@ -1,5 +1,11 @@
 # Planchette
 
+> [!IMPORTANT]
+> Planchette moved to https://github.com/L-K-M/Hauntware. This repository is
+> archived and gets no updates. Download from
+> https://github.com/L-K-M/Hauntware/releases (`planchette-*` and `planchette_*.deb` assets);
+> file issues there.
+
 A focused text editor, and the shared editor foundation for
 [Poltergeist](https://github.com/L-K-M/Poltergeist) and
 [Séance](https://github.com/L-K-M/Seance).
